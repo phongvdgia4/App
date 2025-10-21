@@ -36,7 +36,7 @@ These instructions should get you set up ready to work on New Expensify 🙌
 3. Install dependencies: `npm install`
 4. Run the specific platform with the following command: `npm run <platform>`, e.g. `npm run web`
 
-You can use any IDE or code editing tool for developing on any platform. Use your favorite!
+You can use any IDE or code editing tool for developing on any platform. Use your favorite!`111
 
 ## Recommended `node` setup
 In order to have more consistent builds, we use a strict `node` and `npm` version as defined in the `package.json` `engines` field and `.nvmrc` file. `npm install` will fail if you do not use the version defined, so it is recommended to install `node` via `nvm` for easy node version management. Automatic `node` version switching can be installed for [`zsh`](https://github.com/nvm-sh/nvm#zsh) or [`bash`](https://github.com/nvm-sh/nvm#bash) using `nvm`.
